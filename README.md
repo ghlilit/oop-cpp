@@ -1,3 +1,3 @@
 # Cpp_OOP
-These are the problems I solved with C++. 
+These are some problems I solved with C++. 
 Every file is a separate program with explanations in comments.
